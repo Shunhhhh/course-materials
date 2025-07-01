@@ -1,2 +1,9 @@
-# course-materials
-Course materials for the computer science program at NBU
+# NBU计算机专业本科课程资料
+本仓库仅包含大一大二的部分课程内容，其余内容敬请期待。
+
+所有仅供参考，抄袭后果自负。
+
+##下载方式
+不要点击页面右上角的 “Download ZIP” 按钮。应点击对应的zip文件后，选择“RAW”右侧的下载按钮。文件较大，下载时间可能较长，建议科学上网。
+
+望以上内容对诸君有所助益。
